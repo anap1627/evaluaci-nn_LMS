@@ -78,6 +78,7 @@ Dependencia del Proveedor: Al ser propietaria, la institución depende de Instru
 ---
 
 ## 📚 Referencias
-*WebHostingZone. (2023). Moodle Vs Canvas Vs Blackboard: El mejor LMS de 2023. Recuperado de https://www.webhostingzone.org/es/blog/Moodle-vs-Canvas-vs-Blackboard-las-mejores-pel%C3%ADculas-de-2023 (Aunque es un blog, ofrece una comparativa detallada y relevante para el tema).
-Fuertes Arroyo, Y. N., & Uc Ríos, C. E. (2024). Análisis multidimensional de plataformas educativas: Canvas vs. Moodle en la educación superior. Revista Virtual Universidad Católica del Norte, (72), 1-28. DOI: https://revistavirtual.ucn.edu.co/index.php/RevistaUCN/article/view/1609 (Puedes buscar este DOI o el título en bases de datos académicas como Redalyc o el portal de la revista).*
+*WebHostingZone. (2023). Moodle Vs Canvas Vs Blackboard: El mejor LMS de 2023. Recuperado de https://www.webhostingzone.org/es/blog/Moodle-vs-Canvas-vs-Blackboard-las-mejores-pel%C3%ADculas-de-2023 (Aunque es un blog, ofrece una comparativa detallada y relevante para el tema).*
+
+*Fuertes Arroyo, Y. N., & Uc Ríos, C. E. (2024). Análisis multidimensional de plataformas educativas: Canvas vs. Moodle en la educación superior. Revista Virtual Universidad Católica del Norte, (72), 1-28. DOI: https://revistavirtual.ucn.edu.co/index.php/RevistaUCN/article/view/1609 (Puedes buscar este DOI o el título en bases de datos académicas como Redalyc o el portal de la revista).*
 
